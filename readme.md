@@ -1,3 +1,31 @@
+# Laradex: Leandro Rangel 
+
+[![Repositório](https://img.shields.io/badge/LeoRangel-laradex-green)](https://github.com/LeoRangel/laradex)
+[![licence mit](https://img.shields.io/github/license/LeoRangel/laradex)](https://github.com/LeoRangel/laradex/blob/master/LICENSE)
+
+> :whale: Sistema de gerenciamento de Pokemons e Treinadores em PHP + Laravel.
+
+## Versioning/Versionamento
+
+Esse projeto não possui um sistema de versionamento.
+
+## History/Histórico
+Consulte as [Releases](https://github.com/LeoRangel/laradex/releases) para acompanhar as alterações feitas no projeto.
+
+## License/Licença do Projeto
+[MIT License](https://github.com/LeoRangel/laradex/blob/master/LICENSE)
+
+
+
+
+
+
+## Mais informações
+
+<details>
+<summary>Laravel</summary>
+<br />
+    
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -67,3 +95,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+    
+<br />
+</details
